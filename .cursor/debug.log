@@ -1,0 +1,184 @@
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949506325,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768949506329,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949506329,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768949506336,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949507079,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949507080,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768949507080,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768949507084,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949507161,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949507167,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949507175,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949507176,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949507180,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949507180,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949508072,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949508072,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768949508073,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768949508074,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949508142,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949508146,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949508154,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949508154,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949508158,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949508158,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949508890,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949508891,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768949508891,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768949508892,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949508951,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949508953,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949508960,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949508960,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949508962,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949508962,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:42","message":"signInAnonymously result","data":{"hasData":true,"hasError":true,"errorMsg":"Anonymous sign-ins are disabled","errorCode":422},"timestamp":1768949509057,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:42","message":"signInAnonymously result","data":{"hasData":true,"hasError":true,"errorMsg":"Anonymous sign-ins are disabled","errorCode":422},"timestamp":1768949509060,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949756518,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949756520,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768949756520,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768949756527,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949757038,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949757038,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768949757039,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768949757042,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949757108,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768949757111,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949757118,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949757119,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768949757124,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768949757124,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:42","message":"signInAnonymously result","data":{"hasData":true,"hasError":false},"timestamp":1768949757432,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:46","message":"Anonymous signin success, setting authenticated","data":{},"timestamp":1768949757433,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:49","message":"loadLatestEntry called","data":{},"timestamp":1768949757433,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:52","message":"Fetching /api/entries","data":{},"timestamp":1768949757434,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:42","message":"signInAnonymously result","data":{"hasData":true,"hasError":false},"timestamp":1768949757446,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:46","message":"Anonymous signin success, setting authenticated","data":{},"timestamp":1768949757446,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:49","message":"loadLatestEntry called","data":{},"timestamp":1768949757446,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:52","message":"Fetching /api/entries","data":{},"timestamp":1768949757446,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:10","message":"Getting user from auth","data":{},"timestamp":1768949758439,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:12","message":"Auth result","data":{"hasUser":false,"hasError":true,"errorMsg":"Auth session missing!"},"timestamp":1768949758443,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:4","message":"Server: Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949758423,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:9","message":"Server: Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949758424,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768949758433,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:22","message":"Server: Creating Supabase client","data":{},"timestamp":1768949758434,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:54","message":"API response received","data":{"status":401,"ok":false},"timestamp":1768949758447,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:56","message":"API data parsed","data":{"hasError":true,"hasEntry":false,"blocksCount":0},"timestamp":1768949758448,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:4","message":"GET /api/entries called","data":{},"timestamp":1768949758431,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:7","message":"Creating server client","data":{},"timestamp":1768949758433,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:10","message":"Getting user from auth","data":{},"timestamp":1768949758460,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:12","message":"Auth result","data":{"hasUser":false,"hasError":true,"errorMsg":"Auth session missing!"},"timestamp":1768949758461,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768949758459,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:22","message":"Server: Creating Supabase client","data":{},"timestamp":1768949758459,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:4","message":"GET /api/entries called","data":{},"timestamp":1768949758459,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:54","message":"API response received","data":{"status":401,"ok":false},"timestamp":1768949758464,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:56","message":"API data parsed","data":{"hasError":true,"hasEntry":false,"blocksCount":0},"timestamp":1768949758464,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:7","message":"Creating server client","data":{},"timestamp":1768949758459,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:4","message":"Server: Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768949772105,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768949772159,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:9","message":"Server: Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768949772105,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:22","message":"Server: Creating Supabase client","data":{},"timestamp":1768949772159,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768949789778,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:22","message":"Server: Creating Supabase client","data":{},"timestamp":1768949789778,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768952720018,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768952720021,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768952720022,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768952720027,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768952720597,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768952720597,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating Supabase client","data":{},"timestamp":1768952720598,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:26","message":"Supabase client created successfully","data":{},"timestamp":1768952720602,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768952720674,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768952720677,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":true,"hasError":false},"timestamp":1768952720687,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:34","message":"Session exists, setting authenticated","data":{},"timestamp":1768952720688,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:49","message":"loadLatestEntry called","data":{},"timestamp":1768952720688,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:52","message":"Fetching /api/entries","data":{},"timestamp":1768952720688,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":true,"hasError":false},"timestamp":1768952720698,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:34","message":"Session exists, setting authenticated","data":{},"timestamp":1768952720699,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:49","message":"loadLatestEntry called","data":{},"timestamp":1768952720699,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:52","message":"Fetching /api/entries","data":{},"timestamp":1768952720699,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:10","message":"Getting user from auth","data":{},"timestamp":1768952721033,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:12","message":"Auth result","data":{"hasUser":false,"hasError":true,"errorMsg":"Auth session missing!"},"timestamp":1768952721036,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:4","message":"Server: Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768952721018,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:9","message":"Server: Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768952721018,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768952721027,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:22","message":"Server: Creating Supabase client","data":{},"timestamp":1768952721028,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:54","message":"API response received","data":{"status":401,"ok":false},"timestamp":1768952721040,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:56","message":"API data parsed","data":{"hasError":true,"hasEntry":false,"blocksCount":0},"timestamp":1768952721041,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:4","message":"GET /api/entries called","data":{},"timestamp":1768952721025,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:7","message":"Creating server client","data":{},"timestamp":1768952721026,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:10","message":"Getting user from auth","data":{},"timestamp":1768952721053,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:12","message":"Auth result","data":{"hasUser":false,"hasError":true,"errorMsg":"Auth session missing!"},"timestamp":1768952721054,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768952721052,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:22","message":"Server: Creating Supabase client","data":{},"timestamp":1768952721052,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:4","message":"GET /api/entries called","data":{},"timestamp":1768952721052,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:54","message":"API response received","data":{"status":401,"ok":false},"timestamp":1768952721056,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:7","message":"Creating server client","data":{},"timestamp":1768952721052,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:56","message":"API data parsed","data":{"hasError":true,"hasEntry":false,"blocksCount":0},"timestamp":1768952721057,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:9","message":"Server: Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768953792563,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768953792649,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:4","message":"Server: Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768953792563,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:22","message":"Server: Creating Supabase client","data":{},"timestamp":1768953792649,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768953856817,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768953856817,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating browser client with cookies","data":{},"timestamp":1768953856817,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:22","message":"Browser client created successfully","data":{},"timestamp":1768953856820,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768953906275,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768953906279,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating browser client with cookies","data":{},"timestamp":1768953906279,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:22","message":"Browser client created successfully","data":{},"timestamp":1768953906286,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:4","message":"Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768953906998,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:10","message":"Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768953906999,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase.ts:18","message":"Creating browser client with cookies","data":{},"timestamp":1768953906999,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/supabase.ts:22","message":"Browser client created successfully","data":{},"timestamp":1768953907005,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768953907091,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:27","message":"useEffect started","data":{},"timestamp":1768953907095,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768953907106,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768953907106,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:31","message":"getSession result","data":{"hasSession":false,"hasError":false},"timestamp":1768953907110,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:38","message":"No session, attempting anonymous signin","data":{},"timestamp":1768953907110,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:42","message":"signInAnonymously result","data":{"hasData":true,"hasError":false},"timestamp":1768953908066,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:46","message":"Anonymous signin success, setting authenticated","data":{},"timestamp":1768953908066,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:49","message":"loadLatestEntry called","data":{},"timestamp":1768953908067,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:52","message":"Fetching /api/entries","data":{},"timestamp":1768953908067,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:42","message":"signInAnonymously result","data":{"hasData":true,"hasError":false},"timestamp":1768953908069,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:46","message":"Anonymous signin success, setting authenticated","data":{},"timestamp":1768953908069,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:49","message":"loadLatestEntry called","data":{},"timestamp":1768953908069,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:52","message":"Fetching /api/entries","data":{},"timestamp":1768953908070,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:10","message":"Getting user from auth","data":{},"timestamp":1768953908996,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:9","message":"Server: Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768953908986,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:24","message":"Server: Cookies available","data":{"totalCookies":1,"supabaseCookies":["sb-ktcoumilzqvygpctbgxs-auth-token"]},"timestamp":1768953908990,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:4","message":"Server: Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768953908985,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768953908989,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:28","message":"Server: Creating Supabase client with SSR","data":{},"timestamp":1768953908990,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:4","message":"GET /api/entries called","data":{},"timestamp":1768953908989,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:7","message":"Creating server client","data":{},"timestamp":1768953908989,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:12","message":"Auth result","data":{"hasUser":true,"hasError":false},"timestamp":1768953909162,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:54","message":"API response received","data":{"status":200,"ok":true},"timestamp":1768953909807,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:56","message":"API data parsed","data":{"hasError":false,"hasEntry":false,"blocksCount":0},"timestamp":1768953909808,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:10","message":"Getting user from auth","data":{},"timestamp":1768953909816,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768953909815,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:24","message":"Server: Cookies available","data":{"totalCookies":1,"supabaseCookies":["sb-ktcoumilzqvygpctbgxs-auth-token"]},"timestamp":1768953909816,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:28","message":"Server: Creating Supabase client with SSR","data":{},"timestamp":1768953909816,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:4","message":"GET /api/entries called","data":{},"timestamp":1768953909815,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:7","message":"Creating server client","data":{},"timestamp":1768953909815,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:12","message":"Auth result","data":{"hasUser":true,"hasError":false},"timestamp":1768953909915,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:54","message":"API response received","data":{"status":200,"ok":true},"timestamp":1768953910014,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:56","message":"API data parsed","data":{"hasError":false,"hasEntry":false,"blocksCount":0},"timestamp":1768953910014,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:4","message":"Server: Checking env vars","data":{"hasUrl":true,"hasKey":true},"timestamp":1768953915801,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:9","message":"Server: Env vars check result","data":{"urlLength":40,"keyLength":46,"willThrow":false},"timestamp":1768953915801,"sessionId":"debug-session","runId":"run1","hypothesisId":"A"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768953915813,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:24","message":"Server: Cookies available","data":{"totalCookies":1,"supabaseCookies":["sb-ktcoumilzqvygpctbgxs-auth-token"]},"timestamp":1768953915813,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:28","message":"Server: Creating Supabase client with SSR","data":{},"timestamp":1768953915813,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:49","message":"loadLatestEntry called","data":{},"timestamp":1768953922153,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:52","message":"Fetching /api/entries","data":{},"timestamp":1768953922153,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:18","message":"Server: createServerClient called","data":{},"timestamp":1768953922161,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:24","message":"Server: Cookies available","data":{"totalCookies":1,"supabaseCookies":["sb-ktcoumilzqvygpctbgxs-auth-token"]},"timestamp":1768953922161,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/supabase-server.ts:28","message":"Server: Creating Supabase client with SSR","data":{},"timestamp":1768953922161,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:10","message":"Getting user from auth","data":{},"timestamp":1768953922161,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:7","message":"Creating server client","data":{},"timestamp":1768953922161,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:4","message":"GET /api/entries called","data":{},"timestamp":1768953922161,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/api/entries/route.ts:12","message":"Auth result","data":{"hasUser":true,"hasError":false},"timestamp":1768953922266,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:54","message":"API response received","data":{"status":200,"ok":true},"timestamp":1768953922627,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"app/page.tsx:56","message":"API data parsed","data":{"hasError":false,"hasEntry":true,"blocksCount":2},"timestamp":1768953922627,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
